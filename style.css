@@ -1,0 +1,33 @@
+body{
+    font-family: 'Secular One', sans-serif;
+}
+#title{
+    background-color: rgb(190, 216, 165);
+    width: 100%;
+    height: 8% ;
+    font-size: x-large;
+    box-shadow: 5px 5px 15px rgb(217, 255, 181);
+    margin-top: 10px;
+}
+#mom{
+    background-color: #d4e7d2;
+    box-shadow: 5px 5px 35px rgb(205, 233, 136);
+    font-size: large;
+}
+#dad{
+    background-color: #d4e7d2;
+    box-shadow: 5px 5px 35px rgb(205, 233, 136);
+    font-size: 20px;
+}
+#description{
+    font-size: larger;
+}
+#cam{
+    font-size: larger;
+}
+#object{
+    background-color: #d4e7d2;
+}
+#accuracy{
+    background-color: #d4e7d2;
+}
